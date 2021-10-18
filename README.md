@@ -1,2 +1,4 @@
-# AprendendoGit
- Primeiro Repositorio curso de git guanabara
+# Aprendendo Git!
+ Primeiro Repositório do curso de git do guanabara.
+
+ Repositório feito em aula.
